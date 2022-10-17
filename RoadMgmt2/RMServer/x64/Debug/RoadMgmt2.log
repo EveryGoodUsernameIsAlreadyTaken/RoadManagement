@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  NetworkMgmt.cpp
+D:\RefProjects\02.C++\RoadMgmt2\RoadMgmt2\NetworkMgmt.cpp(51,20): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+D:\RefProjects\02.C++\RoadMgmt2\RoadMgmt2\NetworkMgmt.cpp(46,10): warning C4101: 'msg': unreferenced local variable
+  RMServer.cpp
+  Generating Code...
+  RoadMgmt2.vcxproj -> D:\RefProjects\02.C++\RoadMgmt2\x64\Debug\RMServer.exe
